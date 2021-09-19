@@ -1,4 +1,4 @@
-## Welcome to BSUdrummer's homepage!
+## Welcome!
 
 ### A Little About Me
 
