@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to BSUdrummer's homepage!
 
-You can use the [editor on GitHub](https://github.com/BSUdrummer/BSUdrummer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### A Little About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm a CS major at Boise State University and love working with computers.
+I built my first computer when I was 11-12 with my dad's help.
+I'm a little older (32), so back then it was all molex connectors and SATA hadn't been invented yet!
+Since then, I have had a lot of fun upgrading, building, and _rebuilding_ new computers for myself, my friends, and my family.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BSUdrummer/BSUdrummer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to check back here to see some of the project I end up working on in the future!
